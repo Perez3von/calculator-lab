@@ -33,3 +33,81 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+input{
+
+    border-style: solid;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+}
+
+
+input:hover{
+
+
+    background-color: rgb(216, 216, 216);
+}
+
+
+
+#calculate-button:hover{
+
+    background-color: darkgray;
+}
+
+#calculate-button:active{
+
+    background-color: rgb(7, 172, 109);
+}
+
+select{
+
+    border-style: none;
+    height: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+#calculate-button{
+
+    background-color: cornflowerblue;
+    color: white;
+    border-style: solid;
+    border-radius: 100px;
+    height: 50px;
+    width: 100px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+
+
+
+.display-container{
+
+    
+    height: 100px;
+    width: 300px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+
+span{
+    
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+   
+}
+
+
+
+
+
+
+
