@@ -7,10 +7,8 @@
   // get user input(s)
   // do any needed work with the value(s)
   // update DOM to reflect new value(s)
-import { add, countDeci } from './calculations.js';
-import { subtract } from './calculations.js';
-import { multiply } from './calculations.js';
-import { divide } from './calculations.js';
+import { add, countDeci, subtract, multiply, divide } from './calculations.js';
+
 
 // variable(s) to point/reference DOM elements
 const cal_button = document.getElementById('calculate-button');
